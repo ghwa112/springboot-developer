@@ -1,4 +1,4 @@
 package me.shindonghwa.springbootdeveloper;
 
-public class login2 {
+public class loginController {
 }
